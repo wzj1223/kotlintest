@@ -40,7 +40,7 @@
                     <archive>
                         <manifest>
                             <!-- 此处指定main方法入口的class -->
-                            <mainClass>MainKt</mainClass>
+                            <mainClass>main.MainKt</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
