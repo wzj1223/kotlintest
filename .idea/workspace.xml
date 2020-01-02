@@ -23,12 +23,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Code\kotlintest\src\main" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn --version" />
+      <command value="mvn -version" />
+      <command value="mvn -v" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -69,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577932815035</updated>
-      <workItem from="1577932819261" duration="9787000" />
+      <workItem from="1577932819261" duration="10587000" />
     </task>
     <servers />
   </component>
@@ -85,22 +93,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577932958146" />
-    <state width="938" height="310" key="GridCell.Tab.0.bottom" timestamp="1577955387553">
+    <state width="938" height="310" key="GridCell.Tab.0.bottom" timestamp="1577957992940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577955387553" />
-    <state width="938" height="310" key="GridCell.Tab.0.center" timestamp="1577955387553">
+    <state width="938" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577957992940" />
+    <state width="938" height="310" key="GridCell.Tab.0.center" timestamp="1577957992940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577955387553" />
-    <state width="938" height="310" key="GridCell.Tab.0.left" timestamp="1577955387553">
+    <state width="938" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577957992940" />
+    <state width="938" height="310" key="GridCell.Tab.0.left" timestamp="1577957992940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577955387553" />
-    <state width="938" height="310" key="GridCell.Tab.0.right" timestamp="1577955387553">
+    <state width="938" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577957992940" />
+    <state width="938" height="310" key="GridCell.Tab.0.right" timestamp="1577957992940">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577955387553" />
+    <state width="938" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577957992940" />
     <state width="938" height="404" key="GridCell.Tab.1.bottom" timestamp="1577954941717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,5 +125,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="938" height="404" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577954941717" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577957898174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577957898174" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1577957992968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577957992968" />
   </component>
 </project>

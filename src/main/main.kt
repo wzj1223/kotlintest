@@ -1,5 +1,5 @@
-
 package main
+
 import io.ktor.application.call
 import io.ktor.application.install
 import io.ktor.features.Compression
