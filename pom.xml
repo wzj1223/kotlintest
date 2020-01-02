@@ -27,7 +27,7 @@
         </dependency>
     </dependencies>
     <build>
-        <sourceDirectory>src/main</sourceDirectory>
+        <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
@@ -40,7 +40,7 @@
                     <archive>
                         <manifest>
                             <!-- 此处指定main方法入口的class -->
-                            <mainClass>main.MainKt</mainClass>
+                            <mainClass>MainKt</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
