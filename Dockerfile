@@ -1,7 +1,7 @@
 FROM openjdk:8-jdk
 WORKDIR /root
 ARG JAR_FILE
-ADD ./target/kotlinTest.jar /root/kotlinTest.jar
+ADD ./kotlinTest.jar /root/kotlinTest.jar
 
 #ENTRYPOINT ["java", "-jar", "dataservice.jar"]
 
