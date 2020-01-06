@@ -30,9 +30,16 @@
         <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <useSystemClassLoader>false</useSystemClassLoader>
+                </configuration>
+            </plugin>
+            <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <finalName>kotlinTest</finalName>
+                    <finalName>kotlintest</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>

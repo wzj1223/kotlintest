@@ -1,7 +1,7 @@
 FROM openjdk:8-jdk
 WORKDIR /root
 ARG JAR_FILE
-ADD ./kotlinTest.jar /root/kotlinTest.jar
+ADD ./kotlintest.jar /root/kotlintest.jar
 
 #ENTRYPOINT ["java", "-jar", "dataservice.jar"]
 
@@ -17,4 +17,4 @@ ADD ./kotlinTest.jar /root/kotlinTest.jar
 #    DB_User=root\
 #    DB_Pass=APS@a
 EXPOSE 8081
-CMD java -jar kotlinTest.jar
+CMD java -jar kotlintest.jar

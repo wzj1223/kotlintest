@@ -9,7 +9,7 @@ import io.ktor.routing.routing
 import io.ktor.server.engine.embeddedServer
 import io.ktor.server.netty.Netty
 
-fun main() {
+fun main(args:Array<String> ) {
     var server = embeddedServer(Netty, 8081) {
         install(Compression) {
             gzip()
