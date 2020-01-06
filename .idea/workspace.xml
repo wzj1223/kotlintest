@@ -42,6 +42,8 @@
       <command value="mvn --version" />
       <command value="mvn -version" />
       <command value="mvn -v" />
+      <command value="mvn clean package" />
+      <command value="mvn clean package -q" />
     </option>
   </component>
   <component name="RunManager" selected="Kotlin.MainKt">
@@ -102,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577932815035</updated>
       <workItem from="1577932819261" duration="13214000" />
-      <workItem from="1578293360885" duration="2324000" />
+      <workItem from="1578293360885" duration="3443000" />
     </task>
     <servers />
   </component>
@@ -122,22 +124,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577932958146" />
-    <state width="1877" height="141" key="GridCell.Tab.0.bottom" timestamp="1578295402509">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1578296874582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578295402509" />
-    <state width="1877" height="141" key="GridCell.Tab.0.center" timestamp="1578295402509">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578296874582" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1578296874582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="141" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578295402509" />
-    <state width="1877" height="141" key="GridCell.Tab.0.left" timestamp="1578295402509">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578296874582" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1578296874582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="141" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578295402509" />
-    <state width="1877" height="141" key="GridCell.Tab.0.right" timestamp="1578295402509">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578296874582" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1578296874582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="141" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578295402509" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578296874582" />
     <state width="938" height="404" key="GridCell.Tab.1.bottom" timestamp="1578293470911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -158,9 +160,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577960451907" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1577957992968">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1578296874601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577957992968" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578296874601" />
   </component>
 </project>
